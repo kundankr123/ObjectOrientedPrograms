@@ -1,0 +1,24 @@
+{
+  "TypesOfStock": [
+    {
+      "name": "Infosys",
+      "numberOfShare": 40,
+      "price": 500
+    },
+    {
+      "name": "HDFC",
+      "numberOfShare": 11,
+      "price": 700
+    },
+    {
+      "name": "Reliance",
+      "numberOfShare": 15,
+      "price": 900
+    }
+    {
+      "name": "ICIC",
+      "numberOfShare": 12,
+      "price": 800
+    }
+  ]
+}

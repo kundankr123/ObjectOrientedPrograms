@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ObjectOrientedPrograms
+{
+    public class InventoryDetails2
+    {
+        public List<TypesOfStock>?typesOfStock;
+
+    }
+    public class TypesOfStock
+    {
+        public string name;
+        public int numberOfShare;
+        public int price;
+    }
+}
